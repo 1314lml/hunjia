@@ -162,7 +162,7 @@ body{
 	float: left;
 }
 .text ul li:nth-child(n+2){
-	margin-left: 20px;
+	margin-left: 18px;
 }
 .text ul li p{
 	font-size: 12px;
